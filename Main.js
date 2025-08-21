@@ -77,7 +77,7 @@ alert(namaOrang)
 const namaOrang1 = ["neja", "inafer", "ujank dksl", "lian kapal lawd"]
 
 for(let x = 1; x <=20; x = x+1){
-  console.log("daniels")
+  console.log(namaOrang1)
 }
 
 

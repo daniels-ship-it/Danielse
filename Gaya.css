@@ -7,8 +7,7 @@
 body{
   font: 16px/26px Verdana,Arial,Sans-Serif;
  background-color: #e5e5f7;
- background-image: 
-   url('assets/backg.svg'),
+ background-image : url(assets/backg.svg)
  background-position: top-center;
  background-repeat: repeat-y;
  background-size: 100%;
